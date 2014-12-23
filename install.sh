@@ -17,7 +17,7 @@ clear
 printf "
 #######################################################################
 #    LNMP/LAMP/LANMP for CentOS/RadHat 5+ Debian 6+ and Ubuntu 12+    #
-# For more information please visit http://blog.linuxeye.com/31.html  #
+# 		For DigitasLBi as WeTeam , JettyKoo   		      #
 #######################################################################"
 
 #get pwd
